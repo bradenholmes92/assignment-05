@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box
+}
+
+#app-container{
+  font-family: "Helvetica Neue", "Helvetica", "sans-serif";
+}
+
+.header{
+  margin: 0 auto;
+  display: inline-block;
+  background-color: black;
+  width: 100%;
+  vertical-align: top;
+}
+
+.logo img{
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+}
+
+.logo2 img{
+  display: inline-block;
+  vertical-align: top;
+  width: 70%;
+  float: right;
+}
+
+.navbar{
+  display: inline-block;
+  padding: 5px;
+}
+
+.navbar span{
+  color: blue;
+}
+
+.navi{
+  background-color: lightgray;
+}
+
+.title{
+  border-bottom: 2px gray solid;
+  line-height: 1.50;
+  display: inline-block;
+}
+
+.MFAH{
+  font-size: 30px;
+  line-height: 1.50;
+}
+
+.desc strong{
+  font-size: 30px;
+}
+
+.desc span{
+  color: blue;
+}
+
+.desc{
+  line-height: 1.25;
+  display: inline-block;
+}
+
+.description{
+  display: inline-block;
+  border-bottom: 2px gray solid;
+  vertical-align: top;
+}
+
+.history{
+  display: inline-block;
+  border-bottom: 2px gray solid;
+}
+
+.future{
+  display: inline-block;
+  border-bottom: 2px gray solid;
+}
+
+.school{
+  display: inline-block;
+  border-bottom: 2px gray solid;
+  vertical-align: top;
+}
+
+.school p{
+}
+
+.footer{
+  display: inline-block;
+  padding: 5px
+}
